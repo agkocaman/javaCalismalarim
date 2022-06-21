@@ -11,8 +11,5 @@ public class main {
         b = scanner.nextInt();
         double h = Math.sqrt((a * a) + (b * b));
         System.out.println("Hipotenus ...: "+ h);
-
-
-
     }
 }
