@@ -23,6 +23,6 @@ public class main {
         System.out.println( ! (3==3)); // False aslında true gelecekti ama ! operatörü onu falseye dönderdi
         System.out.println(!((3<4 && "Murat"=="Murat") || 3.4 > 2.1)); //False
 
-        
+
     }
 }
